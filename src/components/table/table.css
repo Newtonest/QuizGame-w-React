@@ -1,0 +1,28 @@
+.table{
+    margin: 150px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 700px;
+    text-align: center;
+    padding: 40px;
+    /*border: 5px solid rgb(90, 86, 86);*/
+}
+.question{
+   border-radius: 36px;
+   background-color: rgb(237, 231, 222);
+   width:590px;
+   margin-bottom: 50px;
+   height:250px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border: 1px solid black;
+   font-size: 20px;
+   font-weight: bold;
+   text-align: center; 
+}
+
+
