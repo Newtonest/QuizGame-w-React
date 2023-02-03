@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import { Table } from "../../components/table/table";
 import './home.css';
 
@@ -21,7 +20,7 @@ export function Home() {
           content={content}
           verified={verified}
           question={question}
-          page ='/results'
+          page ='/second'
           ></Table>           
         </div>
     )
